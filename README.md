@@ -19,4 +19,9 @@ Aquí, actualmente trabajando en proyectos vinculados a análisis de datos en te
 
 Python, MySQL, SQL, R, AWS, Docker, Airlflow
 
+------------
+
+#### Contacto:   
+https://www.linkedin.com/in/fernando-alloatti-2b921321/
+
 
